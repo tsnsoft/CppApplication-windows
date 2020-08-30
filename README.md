@@ -39,3 +39,4 @@ int main(int argc, char* argv[]) {
 
 ![screenshot](screenshot3.png)
 
+P.S. Installing and Updating Cygwin for 64-bit versions of Windows: https://cygwin.com/install.html
